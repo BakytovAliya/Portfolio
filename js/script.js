@@ -1,3 +1,6 @@
+/*global $*/
+/*global window, document, FormData, XMLHttpRequest*/
+
 /*JQuery code*/
 $(function() {
     var header = $("#header"),
