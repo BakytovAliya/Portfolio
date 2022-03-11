@@ -198,7 +198,11 @@ h1, h2, h3, h4, h5, h6 {
 
 /*------------------------section about-----------------*/
 .section {
-    padding: 90px 0;
+    padding: 100px 0;
+}
+
+.section_education {
+    padding: 150px 0;
 }
 
 .section__header__1 {
@@ -229,7 +233,7 @@ h1, h2, h3, h4, h5, h6 {
 .section__header__4 {
     width: 100%;
     max-width: 900px;
-    margin: 10px 300px 40px;
+    margin: 10px 270px 40px;
     
     text-align: center;
 }
@@ -279,7 +283,7 @@ h1, h2, h3, h4, h5, h6 {
 /*-----------------------------section statistics--------------------*/
 .statistics {
     background-color: darkslategray;
-    padding: 80px;
+    padding: 50px;
 }
 
 .stat {
@@ -493,14 +497,3 @@ h1, h2, h3, h4, h5, h6 {
 .copyright span {
     color: darkslategray;
 }
-
-
-
-
-
-
-
-
-
-
-
